@@ -16,6 +16,7 @@ using Admin_empleados.PL;
 using System.Text.RegularExpressions;
 using System.Collections.ObjectModel;
 
+
 // NuGet Package Manager
 namespace Admin_empleados.PL
 {
