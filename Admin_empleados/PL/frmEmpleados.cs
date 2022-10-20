@@ -282,7 +282,7 @@ namespace Admin_empleados.PL
                     picQR.Image = bmp;
 
 
-                    bmp.Save(@"D:\c#\Admin_empleados\QR"+cadena+".png", ImageFormat.Png);
+                    bmp.Save(@"E:\c#\Admin_empleados\QR"+cadena+".png", ImageFormat.Png);
                 }
 
             }
@@ -293,6 +293,16 @@ namespace Admin_empleados.PL
 
             }
          }
+
+        private void dgvEmpleados_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void cbxDepartamento_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

@@ -120,7 +120,10 @@ namespace Admin_empleados.PL
             LimpiarEntradas();
         }
 
-        
+        private void frmDepartamentos_Load(object sender, EventArgs e)
+        {
+
+        }
     }
   
 }

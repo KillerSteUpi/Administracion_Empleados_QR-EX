@@ -163,6 +163,7 @@
             this.Opacity = 0.95D;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmDepartamentos";
+            this.Load += new System.EventHandler(this.frmDepartamentos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvDepartamentos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
