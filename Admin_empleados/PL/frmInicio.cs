@@ -39,6 +39,11 @@ namespace Admin_empleados.PL
         {
             this.Dispose();
         }
+
+        private void frmInicio_Load(object sender, EventArgs e)
+        {
+
+        }
     }
     }
 

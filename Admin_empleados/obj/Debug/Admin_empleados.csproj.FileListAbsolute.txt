@@ -58,3 +58,4 @@ E:\c#\Admin_empleados\Admin_empleados\obj\Debug\Admin_empleados.csproj.CoreCompi
 E:\c#\Admin_empleados\Admin_empleados\obj\Debug\Admin_empleados.csproj.CopyComplete
 E:\c#\Admin_empleados\Admin_empleados\obj\Debug\Admin_empleados.exe
 E:\c#\Admin_empleados\Admin_empleados\obj\Debug\Admin_empleados.pdb
+E:\c#\Admin_empleados\Admin_empleados\obj\Debug\Admin_empleados.csproj.SuggestedBindingRedirects.cache

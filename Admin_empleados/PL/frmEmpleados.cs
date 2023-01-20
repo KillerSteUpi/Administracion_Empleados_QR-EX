@@ -282,7 +282,7 @@ namespace Admin_empleados.PL
                     picQR.Image = bmp;
 
 
-                    bmp.Save(@"E:\c#\Admin_empleados\QR"+cadena+".png", ImageFormat.Png);
+                    bmp.Save(@"D:\c#\Admin_empleados\QR"+cadena+".png", ImageFormat.Png);
                 }
 
             }
